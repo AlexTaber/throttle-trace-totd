@@ -1,0 +1,1373 @@
+{
+	"building_color": "ffffffff",
+	"drs_sections": [
+		{
+			"detection_progress": -180.0,
+			"start_progress": -140.0
+		}
+	],
+	"flying_lap_offset": 800.0,
+	"grass_color": "274d32ff",
+	"id": "95a4bf89-01ff-4638-8d0f-b818774da743",
+	"is_loop": true,
+	"landscape_position_x": 0.0,
+	"landscape_position_z": 0.0,
+	"main_curve": {
+		"points": [
+			{
+				"height_mode": 0,
+				"in": [
+					53.8681793212891,
+					0.0,
+					0.0
+				],
+				"out": [
+					-44.3679428100586,
+					0.0,
+					0.0
+				],
+				"override_height": 0.0,
+				"pos": [
+					-14.3198728561401,
+					0.0,
+					90.0
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					9.97685813903809,
+					0.0,
+					0.0
+				],
+				"out": [
+					-22.0900001525879,
+					0.0,
+					0.0
+				],
+				"override_height": 0.0,
+				"pos": [
+					-110.0,
+					0.0,
+					90.0
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					0.0,
+					0.0,
+					22.0900001525879
+				],
+				"out": [
+					0.0,
+					0.0,
+					-22.0900001525879
+				],
+				"override_height": 0.0,
+				"pos": [
+					-150.0,
+					0.0,
+					50.0
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-8.50027465820312,
+					0.0,
+					11.2678108215332
+				],
+				"out": [
+					4.81790685653687,
+					0.0,
+					-6.38653087615967
+				],
+				"override_height": 0.0,
+				"pos": [
+					-94.1092147827148,
+					0.0,
+					30.7472534179688
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					4.52589082717896,
+					0.0,
+					6.59668922424316
+				],
+				"out": [
+					-4.37667083740234,
+					0.0,
+					-6.37919425964355
+				],
+				"override_height": 0.0,
+				"pos": [
+					-85.7077713012695,
+					0.0,
+					-3.15502738952637
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-8.26801300048828,
+					0.0,
+					32.4137763977051
+				],
+				"out": [
+					8.97200012207031,
+					0.0,
+					-35.1736755371094
+				],
+				"override_height": 0.0,
+				"pos": [
+					-150.0,
+					0.0,
+					-50.0
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-21.974983215332,
+					0.0,
+					2.25141501426697
+				],
+				"out": [
+					44.4764862060547,
+					0.0,
+					-4.5567741394043
+				],
+				"override_height": 0.0,
+				"pos": [
+					-61.4918632507324,
+					0.0,
+					-37.2144393920898
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-22.0900001525879,
+					0.0,
+					0.0
+				],
+				"out": [
+					22.0900001525879,
+					0.0,
+					0.0
+				],
+				"override_height": 0.0,
+				"pos": [
+					-69.8765563964844,
+					0.0,
+					56.3423614501953
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-7.06530618667603,
+					0.0,
+					3.75251007080078
+				],
+				"out": [
+					32.7722396850586,
+					0.0,
+					-17.4059219360352
+				],
+				"override_height": 0.0,
+				"pos": [
+					-11.9186162948608,
+					0.0,
+					29.4096202850342
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-4.02978515625,
+					0.0,
+					-29.9777641296387
+				],
+				"out": [
+					2.92218899726868,
+					0.0,
+					21.738302230835
+				],
+				"override_height": 0.0,
+				"pos": [
+					125.565551757812,
+					0.0,
+					38.5346794128418
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					0.0,
+					0.0,
+					-22.0900001525879
+				],
+				"out": [
+					0.0,
+					0.0,
+					22.0900001525879
+				],
+				"override_height": 0.0,
+				"pos": [
+					149.655685424805,
+					0.0,
+					72.2365417480469
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					22.0900001525879,
+					0.0,
+					0.0
+				],
+				"out": [
+					-12.1131420135498,
+					0.0,
+					0.0
+				],
+				"override_height": 0.0,
+				"pos": [
+					110.0,
+					0.0,
+					90.0
+				]
+			}
+		]
+	},
+	"main_racing_line": {
+		"points": [
+			{
+				"height_mode": 0,
+				"in": [
+					15.8662586212158,
+					0.0,
+					0.0
+				],
+				"out": [
+					-14.0160627365112,
+					0.0,
+					0.0
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					-14.3198728561401,
+					0.0500000007450581,
+					91.2868270874023
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					8.0,
+					0.0,
+					0.0
+				],
+				"out": [
+					-8.0,
+					0.0,
+					0.0
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					-85.5232772827148,
+					0.0500000044703484,
+					91.0282363891602
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					14.1637573242188,
+					0.0,
+					11.3138122558594
+				],
+				"out": [
+					-14.9096002578735,
+					0.0,
+					-11.9095811843872
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					-135.591247558594,
+					0.0500000044703484,
+					80.2079849243164
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-6.17990112304688,
+					0.0,
+					7.14973831176758
+				],
+				"out": [
+					9.43312549591064,
+					0.0,
+					-10.9135046005249
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					-146.166030883789,
+					0.0500000007450581,
+					42.6135177612305
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-13.4641265869141,
+					0.0,
+					4.03085327148438
+				],
+				"out": [
+					14.9531154632568,
+					0.0,
+					-4.47662258148193
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					-102.91609954834,
+					0.0500000044703484,
+					34.9044303894043
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					6.67026901245117,
+					0.0,
+					8.77573680877686
+				],
+				"out": [
+					-6.60448455810547,
+					0.0,
+					-8.68918704986572
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					-86.9708404541016,
+					0.0500000044703484,
+					-2.51516056060791
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					12.234001159668,
+					0.0,
+					7.11203384399414
+				],
+				"out": [
+					-25.9193344116211,
+					0.0,
+					-15.0677757263184
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					-132.028793334961,
+					0.0500000044703484,
+					-20.086841583252
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-9.15513515472412,
+					0.0,
+					4.49116659164429
+				],
+				"out": [
+					13.6687622070312,
+					0.0,
+					-6.70538330078125
+				],
+				"override_height": 0.0499999970197678,
+				"pos": [
+					-142.55354309082,
+					0.0499999970197678,
+					-59.1851577758789
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-16.1077575683594,
+					0.0,
+					-7.96096801757812
+				],
+				"out": [
+					17.9928874969482,
+					0.0,
+					8.89265918731689
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					-103.395286560059,
+					0.0500000007450581,
+					-52.0226898193359
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-8.05007362365723,
+					0.0,
+					-0.666977524757385
+				],
+				"out": [
+					4.98292636871338,
+					0.0,
+					0.412853360176086
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					-64.4523315429688,
+					0.0500000044703484,
+					-38.5683135986328
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-3.4409658908844,
+					0.0,
+					-3.62764120101929
+				],
+				"out": [
+					10.4862403869629,
+					0.0,
+					11.0551280975342
+				],
+				"override_height": 0.0499999970197678,
+				"pos": [
+					-50.553882598877,
+					0.0499999970197678,
+					-33.1016464233398
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					5.5158896446228,
+					0.0,
+					-9.63656711578369
+				],
+				"out": [
+					-5.88309860229492,
+					0.0,
+					10.2781019210815
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					-58.8735771179199,
+					0.0500000007450581,
+					11.4594621658325
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-8.48312377929688,
+					0.0,
+					-6.02459335327148
+				],
+				"out": [
+					6.03123474121094,
+					0.0,
+					4.28329658508301
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					-71.6996383666992,
+					0.0500000007450581,
+					54.3895378112793
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-11.5223617553711,
+					0.0,
+					6.47775077819824
+				],
+				"out": [
+					14.952392578125,
+					0.0,
+					-8.40607833862305
+				],
+				"override_height": 0.0499999932944775,
+				"pos": [
+					-41.5401649475098,
+					0.0499999932944775,
+					48.4038696289062
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-8.143630027771,
+					0.0,
+					3.44917225837708
+				],
+				"out": [
+					13.0140905380249,
+					0.0,
+					-5.51201820373535
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					-6.75038051605225,
+					0.0500000007450581,
+					28.034330368042
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-22.5502681732178,
+					0.0,
+					-0.634045481681824
+				],
+				"out": [
+					15.6442794799805,
+					0.0,
+					0.43986988067627
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					70.6958389282227,
+					0.0500000007450581,
+					14.8741102218628
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-7.13699245452881,
+					0.0,
+					-12.8413963317871
+				],
+				"out": [
+					7.76981353759766,
+					0.0,
+					13.9800148010254
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					121.989952087402,
+					0.0500000007450581,
+					33.1071586608887
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-6.56513977050781,
+					0.0,
+					-4.8121452331543
+				],
+				"out": [
+					18.3331642150879,
+					0.0,
+					13.4379234313965
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					138.179382324219,
+					0.0500000044703484,
+					55.2086448669434
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					11.6407089233398,
+					0.0,
+					-5.93087005615234
+				],
+				"out": [
+					-10.2918548583984,
+					0.0,
+					5.24363708496094
+				],
+				"override_height": 0.0499999932944775,
+				"pos": [
+					140.746139526367,
+					0.0499999932944775,
+					87.6231384277344
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					24.0126190185547,
+					0.0,
+					0.0640335083007812
+				],
+				"out": [
+					-4.99998140335083,
+					0.0,
+					-0.0133332535624504
+				],
+				"override_height": 0.0500000044703484,
+				"pos": [
+					99.3353118896484,
+					0.0500000044703484,
+					91.2487182617188
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					5.0,
+					0.0,
+					-0.0000649690628051758
+				],
+				"out": [
+					-5.0,
+					0.0,
+					0.0000649690628051758
+				],
+				"override_height": 0.0500000007450581,
+				"pos": [
+					53.096305847168,
+					0.0500000007450581,
+					91.0566101074219
+				]
+			}
+		]
+	},
+	"pit_curve": {
+		"points": [
+			{
+				"height_mode": 0,
+				"in": [
+					14.8993196487427,
+					0.0,
+					-1.73497450351715
+				],
+				"out": [
+					-22.563232421875,
+					0.0,
+					2.62741088867188
+				],
+				"override_height": 0.0,
+				"pos": [
+					115.696876525879,
+					0.0,
+					90.0793075561523
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					14.9993572235107,
+					0.0,
+					0.139314383268356
+				],
+				"out": [
+					-32.9000396728516,
+					0.0,
+					-0.305576324462891
+				],
+				"override_height": 0.0,
+				"pos": [
+					70.8925323486328,
+					0.0,
+					73.4880523681641
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					14.9790706634521,
+					0.0,
+					-0.792149841785431
+				],
+				"out": [
+					-21.1863594055176,
+					0.0,
+					1.12041473388672
+				],
+				"override_height": 0.0,
+				"pos": [
+					-53.8829650878906,
+					0.0,
+					73.4880523681641
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					28.622444152832,
+					0.0,
+					0.905708312988281
+				],
+				"out": [
+					-21.1914157867432,
+					0.0,
+					-0.670566141605377
+				],
+				"override_height": 0.0,
+				"pos": [
+					-104.297798156738,
+					0.0,
+					90.0
+				]
+			}
+		]
+	},
+	"pit_end_progress": 90.0,
+	"pit_garage_side": 1,
+	"pit_racing_line": {
+		"points": [
+			{
+				"height_mode": 0,
+				"in": [
+					14.8993196487427,
+					0.0,
+					-1.73497450351715
+				],
+				"out": [
+					-22.563232421875,
+					0.0,
+					2.62741088867188
+				],
+				"override_height": 0.0350000001490116,
+				"pos": [
+					115.678207397461,
+					0.0350000001490116,
+					91.46630859375
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					14.9993572235107,
+					0.0,
+					0.139314383268356
+				],
+				"out": [
+					-32.9000396728516,
+					0.0,
+					-0.305576324462891
+				],
+				"override_height": 0.0350000001490116,
+				"pos": [
+					70.8925323486328,
+					0.0350000001490116,
+					73.4880523681641
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					14.9790706634521,
+					0.0,
+					-0.792149841785431
+				],
+				"out": [
+					-21.1863594055176,
+					0.0,
+					1.12041473388672
+				],
+				"override_height": 0.0350000001490116,
+				"pos": [
+					-53.8829650878906,
+					0.0350000001490116,
+					73.4880523681641
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					28.622444152832,
+					0.0,
+					0.905708312988281
+				],
+				"out": [
+					-21.1914157867432,
+					0.0,
+					-0.670566141605377
+				],
+				"override_height": 0.0350000001490116,
+				"pos": [
+					-104.29670715332,
+					0.0350000001490116,
+					90.3153991699219
+				]
+			}
+		]
+	},
+	"pit_speed_limit_distance_from_end": 50.0,
+	"pit_speed_limit_distance_from_start": 50.0,
+	"pit_start_progress": -130.0,
+	"reference_image_path": "",
+	"reference_image_position_x": 0.0,
+	"reference_image_position_z": 0.0,
+	"reference_image_scale": 1.0,
+	"scenery": [
+		{
+			"extra_params": {
+				"layer_count": 1,
+				"mesh_scale": 3.5,
+				"spacing": 0.0,
+				"type": 2
+			},
+			"is_pit_lane": false,
+			"length": 374.0,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": -150.0,
+			"side": 0,
+			"type_id": "buildings"
+		},
+		{
+			"extra_params": {
+				"layer_count": 1,
+				"mesh_scale": 3.5,
+				"spacing": 0.0,
+				"type": 2
+			},
+			"is_pit_lane": false,
+			"length": 200.0,
+			"offset": 8.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 324.0,
+			"side": 0,
+			"type_id": "buildings"
+		},
+		{
+			"extra_params": {
+				"layer_count": 2,
+				"mesh_scale": 5.0,
+				"spacing": 10.0,
+				"type": 1
+			},
+			"is_pit_lane": false,
+			"length": 162.0,
+			"offset": 26.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 313.0,
+			"side": 0,
+			"type_id": "buildings"
+		},
+		{
+			"extra_params": {
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 992.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 0.0,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"extra_params": {
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 775.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 86.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"extra_params": {
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": true,
+			"length": 58.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"extra_params": {
+				"density": 0.8,
+				"layer_count": 4,
+				"mesh_scale": 1.0,
+				"type": 1
+			},
+			"is_pit_lane": false,
+			"length": 213.0,
+			"offset": 12.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 619.0,
+			"side": 0,
+			"type_id": "trees"
+		},
+		{
+			"extra_params": {
+				"density": 0.9,
+				"layer_count": 2,
+				"mesh_scale": 0.8,
+				"type": 1
+			},
+			"is_pit_lane": false,
+			"length": 250.0,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 600.0,
+			"side": 1,
+			"type_id": "trees"
+		},
+		{
+			"extra_params": {
+				"density": 0.7,
+				"layer_count": 3,
+				"mesh_scale": 1.0,
+				"type": 1
+			},
+			"is_pit_lane": true,
+			"length": 150.0,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "trees"
+		},
+		{
+			"extra_params": {
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": true,
+			"length": 61.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 164.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"extra_params": {
+				"layer_count": 1,
+				"mesh_scale": 4.0,
+				"spacing": 0.0,
+				"type": 2
+			},
+			"is_pit_lane": false,
+			"length": 60.0,
+			"offset": 8.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0303899347782135,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": -0.317257910966873
+					},
+					{
+						"left_mode": 0,
+						"left_tangent": -2.63102412223816,
+						"pos": [
+							1.0,
+							0.692383527755737
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 260.0,
+			"side": 1,
+			"type_id": "buildings"
+		},
+		{
+			"extra_params": {
+				"density": 0.5,
+				"layer_count": 3,
+				"mesh_scale": 1.0,
+				"type": 1
+			},
+			"is_pit_lane": false,
+			"length": 140.0,
+			"offset": 14.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 80.0,
+			"side": 1,
+			"type_id": "trees"
+		},
+		{
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 1,
+				"mesh_scale": 1.0,
+				"type": 1
+			},
+			"is_pit_lane": false,
+			"length": 40.0,
+			"offset": 12.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 220.0,
+			"side": 1,
+			"type_id": "trees"
+		},
+		{
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 1,
+				"mesh_scale": 0.7,
+				"type": 1
+			},
+			"is_pit_lane": false,
+			"length": 140.0,
+			"offset": 13.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 0,
+						"right_tangent": -0.181629523634911
+					},
+					{
+						"left_mode": 0,
+						"left_tangent": -0.241519793868065,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"progress": 360.0,
+			"side": 1,
+			"type_id": "trees"
+		}
+	],
+	"sector_1_progress": 250.0,
+	"sector_2_progress": 610.0,
+	"track_name": "The Whale",
+	"tree_color": "f7ed00ff"
+}
