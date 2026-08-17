@@ -1,7 +1,7 @@
 {
 	"building_color": "ff9500ff",
 	"drs_sections": [],
-	"flying_lap_offset": 50.0,
+	"flying_lap_offset": 100.0,
 	"grass_color": "274d32ff",
 	"id": "3b6a13ec-4ff9-485c-a6d0-e02a623e3665",
 	"is_loop": true,
