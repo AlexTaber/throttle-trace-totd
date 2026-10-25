@@ -1,0 +1,4877 @@
+{
+	"ads": true,
+	"building_color": "f7ed00ff",
+	"building_shade": 0.62,
+	"climate": 4,
+	"dirt_color": "f7ed00ff",
+	"dirt_shade": 0.2,
+	"drs_sections": [
+		{
+			"detection_progress": 1650.25146484375,
+			"start_progress": 1859.62646484375
+		},
+		{
+			"detection_progress": 1009.65112304688,
+			"start_progress": 1197.64587402344
+		}
+	],
+	"flying_lap_offset": 1197.37283370117,
+	"force_lights_on": false,
+	"grass_color": "14cc36ff",
+	"grass_shade": 0.5,
+	"has_custom_racing_line": true,
+	"horizon_id": "city_mountains",
+	"horizon_offset": 0.2,
+	"horizon_repeat": 4,
+	"horizon_rotation": 0.0,
+	"horizon_shade": 0.51,
+	"horizon_tint": "ffffffff",
+	"id": "19240cab-f8bc-400d-809b-7017dced03d7",
+	"is_loop": true,
+	"iso_cam_angle": 0.0,
+	"landscape_base_material": 0,
+	"landscape_position_x": 0.0,
+	"landscape_position_z": 0.0,
+	"landscape_regions": [
+		{
+			"hole": [],
+			"points": [
+				[
+					-322.0,
+					-108.0,
+					9.0
+				],
+				[
+					274.0,
+					-238.0,
+					9.0
+				],
+				[
+					290.0,
+					-192.0,
+					9.0
+				],
+				[
+					20.0,
+					-140.0,
+					8.0
+				],
+				[
+					22.0,
+					-138.0,
+					8.0
+				],
+				[
+					290.0,
+					-190.0,
+					9.0
+				],
+				[
+					298.0,
+					-124.0,
+					6.0
+				],
+				[
+					338.0,
+					34.0,
+					3.0
+				],
+				[
+					360.0,
+					180.0,
+					0.0
+				],
+				[
+					378.0,
+					282.0,
+					0.0
+				],
+				[
+					-108.0,
+					328.0,
+					1.0
+				],
+				[
+					-114.0,
+					328.0,
+					1.0
+				],
+				[
+					-258.0,
+					146.0,
+					0.0
+				],
+				[
+					-292.0,
+					50.0,
+					0.0
+				],
+				[
+					-290.0,
+					-10.0,
+					2.0
+				],
+				[
+					-314.0,
+					-74.0,
+					9.0
+				]
+			],
+			"skirt": 200.0,
+			"surface_material": 0
+		}
+	],
+	"light_color": "ffe3b0ff",
+	"light_intensity": 1.0,
+	"light_shade": 0.5,
+	"main_curve": {
+		"points": [
+			{
+				"height_mode": 0,
+				"in": [
+					-5.44857168197632,
+					0.0,
+					23.0243110656738
+				],
+				"out": [
+					13.0924301147461,
+					0.0,
+					-55.3253631591797
+				],
+				"override_height": 0.7470703125,
+				"pos": [
+					120.684745788574,
+					0.7470703125,
+					140.570297241211
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					35.4817962646484,
+					0.0,
+					30.131664276123
+				],
+				"out": [
+					-19.8758754730225,
+					0.0,
+					-16.878885269165
+				],
+				"override_height": 3.2099609375,
+				"pos": [
+					88.1354064941406,
+					3.2099609375,
+					46.0237464904785
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					17.2925643920898,
+					0.0,
+					13.7453727722168
+				],
+				"out": [
+					-24.9381294250488,
+					0.0,
+					-19.8226165771484
+				],
+				"override_height": 5.1708984375,
+				"pos": [
+					-16.6479034423828,
+					5.1708984375,
+					-33.6105728149414
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-0.517635345458984,
+					0.0,
+					17.528636932373
+				],
+				"out": [
+					0.910729944705963,
+					0.0,
+					-30.8399639129639
+				],
+				"override_height": 6.2421875,
+				"pos": [
+					-44.4245758056641,
+					6.2421875,
+					-79.3342895507812
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-21.0536060333252,
+					0.0,
+					3.85342788696289
+				],
+				"out": [
+					21.9308643341064,
+					0.0,
+					-4.01399230957031
+				],
+				"override_height": 7.5263671875,
+				"pos": [
+					-2.8468074798584,
+					7.5263671875,
+					-128.386428833008
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-14.1125602722168,
+					0.0,
+					1.17935180664062
+				],
+				"out": [
+					14.1059436798096,
+					0.0,
+					-1.1787987947464
+				],
+				"override_height": 7.984375,
+				"pos": [
+					42.2629356384277,
+					7.984375,
+					-134.787658691406
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					22.7145481109619,
+					0.0,
+					-27.7935657501221
+				],
+				"out": [
+					-25.1654930114746,
+					0.0,
+					30.7925491333008
+				],
+				"override_height": 7.1005859375,
+				"pos": [
+					54.2076110839844,
+					7.1005859375,
+					-102.370643615723
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-24.4679508209229,
+					0.0,
+					25.3916187286377
+				],
+				"out": [
+					33.3972778320312,
+					0.0,
+					-34.6580276489258
+				],
+				"override_height": 6.3349609375,
+				"pos": [
+					89.6893463134766,
+					6.3349609375,
+					-71.5781097412109
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-36.7254638671875,
+					0.0,
+					6.9946174621582
+				],
+				"out": [
+					29.4248046875,
+					0.0,
+					-5.60415649414062
+				],
+				"override_height": 6.9501953125,
+				"pos": [
+					159.192001342773,
+					6.9501953125,
+					-112.165542602539
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					13.0885553359985,
+					0.0,
+					-10.5032176971436
+				],
+				"out": [
+					-17.8387908935547,
+					0.0,
+					14.3151550292969
+				],
+				"override_height": 6.10546875,
+				"pos": [
+					172.251525878906,
+					6.10546875,
+					-86.2675476074219
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					9.34087085723877,
+					0.0,
+					-9.61356353759766
+				],
+				"out": [
+					-16.5141754150391,
+					0.0,
+					16.996280670166
+				],
+				"override_height": 5.802734375,
+				"pos": [
+					139.705657958984,
+					5.802734375,
+					-58.5241737365723
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-6.84539175033569,
+					0.0,
+					-15.9157047271729
+				],
+				"out": [
+					5.23989868164062,
+					0.0,
+					12.1828927993774
+				],
+				"override_height": 4.5703125,
+				"pos": [
+					128.818542480469,
+					4.5703125,
+					-2.96498775482178
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-15.7010955810547,
+					0.0,
+					-12.0339851379395
+				],
+				"out": [
+					10.2373714447021,
+					0.0,
+					7.84635543823242
+				],
+				"override_height": 3.7744140625,
+				"pos": [
+					160.224533081055,
+					3.7744140625,
+					28.7182960510254
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-10.0133218765259,
+					0.0,
+					-4.9947361946106
+				],
+				"out": [
+					21.5185852050781,
+					0.0,
+					10.7336654663086
+				],
+				"override_height": 2.8603515625,
+				"pos": [
+					218.465682983398,
+					2.8603515625,
+					66.3691787719727
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-5.75713205337524,
+					0.0,
+					15.8065519332886
+				],
+				"out": [
+					11.3393402099609,
+					0.0,
+					-31.1328392028809
+				],
+				"override_height": 3.2900390625,
+				"pos": [
+					251.067886352539,
+					3.2900390625,
+					40.4416656494141
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					13.5075960159302,
+					0.0,
+					43.0645713806152
+				],
+				"out": [
+					-22.3534393310547,
+					0.0,
+					-71.2666625976562
+				],
+				"override_height": 4.8642578125,
+				"pos": [
+					251.067886352539,
+					4.8642578125,
+					-45.6874237060547
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					23.4467754364014,
+					0.0,
+					6.57959365844727
+				],
+				"out": [
+					-41.3891906738281,
+					0.0,
+					-11.6145629882812
+				],
+				"override_height": 7.7734375,
+				"pos": [
+					178.053787231445,
+					7.7734375,
+					-132.999755859375
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					17.8295021057129,
+					0.0,
+					4.17596769332886
+				],
+				"out": [
+					-30.2058143615723,
+					0.0,
+					-7.07470703125
+				],
+				"override_height": 8.4384765625,
+				"pos": [
+					58.3615570068359,
+					8.4384765625,
+					-162.65495300293
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					117.44953918457,
+					0.0,
+					-27.9523773193359
+				],
+				"out": [
+					-55.7057304382324,
+					0.0,
+					13.2576732635498
+				],
+				"override_height": 9.0,
+				"pos": [
+					-118.275085449219,
+					9.0,
+					-136.423736572266
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					21.2857360839844,
+					0.0,
+					-12.5395126342773
+				],
+				"out": [
+					-19.032901763916,
+					0.0,
+					11.2123594284058
+				],
+				"override_height": 9.0,
+				"pos": [
+					-260.026214599609,
+					9.0,
+					-97.6244506835938
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-16.9478797912598,
+					0.0,
+					-12.5257349014282
+				],
+				"out": [
+					15.4698486328125,
+					0.0,
+					11.4333610534668
+				],
+				"override_height": 6.2744140625,
+				"pos": [
+					-258.058502197266,
+					6.2744140625,
+					-59.6656379699707
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					8.96234893798828,
+					0.0,
+					-14.2538967132568
+				],
+				"out": [
+					-12.0785522460938,
+					0.0,
+					19.2099666595459
+				],
+				"override_height": 2.67578125,
+				"pos": [
+					-254.325927734375,
+					2.67578125,
+					-24.0614814758301
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-13.371787071228,
+					0.0,
+					-30.6608467102051
+				],
+				"out": [
+					15.8243865966797,
+					0.0,
+					36.2845344543457
+				],
+				"override_height": 1.505859375,
+				"pos": [
+					-261.6015625,
+					1.505859375,
+					46.8720054626465
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-37.8690185546875,
+					0.0,
+					-10.8988800048828
+				],
+				"out": [
+					21.2282981872559,
+					0.0,
+					6.10960340499878
+				],
+				"override_height": 1.294921875,
+				"pos": [
+					-163.426666259766,
+					1.294921875,
+					104.311454772949
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-21.3113384246826,
+					0.0,
+					-5.81334018707275
+				],
+				"out": [
+					40.2390518188477,
+					0.0,
+					10.9764709472656
+				],
+				"override_height": 0.095703125,
+				"pos": [
+					75.7757720947266,
+					0.095703125,
+					172.571304321289
+				]
+			}
+		]
+	},
+	"main_racing_line": {
+		"points": [
+			{
+				"height_mode": 0,
+				"in": [
+					-4.33775329589844,
+					0.0,
+					19.6178894042969
+				],
+				"out": [
+					6.18313264846802,
+					0.0,
+					-27.9637870788574
+				],
+				"override_height": 9.14999961853027,
+				"pos": [
+					121.92993927002,
+					9.14999961853027,
+					140.864120483398
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					47.0044860839844,
+					0.0,
+					37.4121704101562
+				],
+				"out": [
+					-50.5482482910156,
+					0.0,
+					-40.2327499389648
+				],
+				"override_height": 9.14999961853027,
+				"pos": [
+					89.3576965332031,
+					9.14999961853027,
+					46.8216705322266
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					26.9601211547852,
+					0.0,
+					20.3807201385498
+				],
+				"out": [
+					-42.9440612792969,
+					0.0,
+					-32.4639091491699
+				],
+				"override_height": 2.53362798690796,
+				"pos": [
+					-19.9066295623779,
+					2.53362798690796,
+					-35.4483375549316
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-46.6201667785645,
+					0.0,
+					9.81974792480469
+				],
+				"out": [
+					19.6163654327393,
+					0.0,
+					-4.13185501098633
+				],
+				"override_height": 1.69995296001434,
+				"pos": [
+					0.882113456726074,
+					1.69995296001434,
+					-130.277938842773
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-16.1721115112305,
+					0.0,
+					1.48168110847473
+				],
+				"out": [
+					22.7395782470703,
+					0.0,
+					-2.08338928222656
+				],
+				"override_height": 1.4879789352417,
+				"pos": [
+					42.4797897338867,
+					1.4879789352417,
+					-136.09831237793
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					14.0881595611572,
+					0.0,
+					-16.9887924194336
+				],
+				"out": [
+					-11.5837850570679,
+					0.0,
+					13.968789100647
+				],
+				"override_height": 1.19212830066681,
+				"pos": [
+					54.6599502563477,
+					1.19212830066681,
+					-102.870216369629
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-9.64295959472656,
+					0.0,
+					-7.31620788574219
+				],
+				"out": [
+					10.8289651870728,
+					0.0,
+					8.21604251861572
+				],
+				"override_height": 0.955971360206604,
+				"pos": [
+					54.6363754272461,
+					0.955971360206604,
+					-66.5993041992188
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-11.5962238311768,
+					0.0,
+					10.8170375823975
+				],
+				"out": [
+					9.18993377685547,
+					0.0,
+					-8.57243347167969
+				],
+				"override_height": 0.696452140808105,
+				"pos": [
+					94.0745468139648,
+					0.696452140808105,
+					-74.2523727416992
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-18.8842372894287,
+					0.0,
+					9.29567813873291
+				],
+				"out": [
+					52.5524139404297,
+					0.0,
+					-25.8686828613281
+				],
+				"override_height": 0.431538045406342,
+				"pos": [
+					128.439315795898,
+					0.431538045406342,
+					-103.650314331055
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					36.2299652099609,
+					0.0,
+					-23.6675052642822
+				],
+				"out": [
+					-48.7550964355469,
+					0.0,
+					31.8496437072754
+				],
+				"override_height": 0.258403271436691,
+				"pos": [
+					162.33154296875,
+					0.258403271436691,
+					-76.6814575195312
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-36.7375793457031,
+					0.0,
+					-29.4934349060059
+				],
+				"out": [
+					8.9593334197998,
+					0.0,
+					7.19267654418945
+				],
+				"override_height": 2.77885270118713,
+				"pos": [
+					153.413543701172,
+					2.77885270118713,
+					25.1165733337402
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-22.3512573242188,
+					0.0,
+					-13.9230575561523
+				],
+				"out": [
+					22.6753520965576,
+					0.0,
+					14.124942779541
+				],
+				"override_height": 3.8141667842865,
+				"pos": [
+					206.010330200195,
+					3.8141667842865,
+					60.6577301025391
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-9.64781284332275,
+					0.0,
+					25.0472564697266
+				],
+				"out": [
+					8.65133666992188,
+					0.0,
+					-22.4602470397949
+				],
+				"override_height": 4.68472671508789,
+				"pos": [
+					251.101959228516,
+					4.68472671508789,
+					44.2085800170898
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					10.7907524108887,
+					0.0,
+					35.718807220459
+				],
+				"out": [
+					-22.4899139404297,
+					0.0,
+					-74.4445648193359
+				],
+				"override_height": 6.23897075653076,
+				"pos": [
+					252.229064941406,
+					6.23897075653076,
+					-43.2763938903809
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					38.5520286560059,
+					0.0,
+					9.73046398162842
+				],
+				"out": [
+					-120.249534606934,
+					0.0,
+					-30.3507690429688
+				],
+				"override_height": 8.15551280975342,
+				"pos": [
+					158.420791625977,
+					8.15551280975342,
+					-139.164932250977
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					87.250244140625,
+					0.0,
+					-19.7657775878906
+				],
+				"out": [
+					-97.6343841552734,
+					0.0,
+					22.1182117462158
+				],
+				"override_height": 6.59870767593384,
+				"pos": [
+					-59.9479713439941,
+					6.59870767593384,
+					-150.35905456543
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					47.6266784667969,
+					0.0,
+					-16.4917011260986
+				],
+				"out": [
+					-25.9972534179688,
+					0.0,
+					9.0020751953125
+				],
+				"override_height": 3.55348825454712,
+				"pos": [
+					-248.367645263672,
+					3.55348825454712,
+					-104.430442810059
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-19.7784996032715,
+					0.0,
+					-15.2575492858887
+				],
+				"out": [
+					9.31831359863281,
+					0.0,
+					7.1883430480957
+				],
+				"override_height": 3.02222299575806,
+				"pos": [
+					-257.919250488281,
+					3.02222299575806,
+					-59.7858848571777
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					15.5093126296997,
+					0.0,
+					-28.239444732666
+				],
+				"out": [
+					-20.3341674804688,
+					0.0,
+					37.0245666503906
+				],
+				"override_height": 3.72408962249756,
+				"pos": [
+					-257.932312011719,
+					3.72408962249756,
+					-14.592866897583
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-82.2034606933594,
+					0.0,
+					-25.1228485107422
+				],
+				"out": [
+					9.03296375274658,
+					0.0,
+					2.76063537597656
+				],
+				"override_height": 7.14047718048096,
+				"pos": [
+					-187.715484619141,
+					7.14047718048096,
+					98.1704254150391
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-88.9146194458008,
+					0.0,
+					-25.5648498535156
+				],
+				"out": [
+					34.5266075134277,
+					0.0,
+					9.92713642120361
+				],
+				"override_height": 9.14999961853027,
+				"pos": [
+					75.786506652832,
+					9.14999961853027,
+					173.920989990234
+				]
+			}
+		]
+	},
+	"pavement_color": "01c00eff",
+	"pavement_shade": 0.51,
+	"pit_curve": {
+		"points": [
+			{
+				"height_mode": 0,
+				"in": [
+					14.5808963775635,
+					0.0,
+					3.52144908905029
+				],
+				"out": [
+					-28.4378986358643,
+					0.0,
+					-6.86806917190552
+				],
+				"override_height": 8.259765625,
+				"pos": [
+					109.170822143555,
+					8.259765625,
+					-150.665588378906
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					47.0265846252441,
+					0.0,
+					-10.4491033554077
+				],
+				"out": [
+					-17.4851131439209,
+					0.0,
+					3.88511657714844
+				],
+				"override_height": 8.5673828125,
+				"pos": [
+					-1.59352111816406,
+					8.5673828125,
+					-149.353225708008
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					29.056827545166,
+					0.0,
+					-6.18556833267212
+				],
+				"out": [
+					-12.5084648132324,
+					0.0,
+					2.66278076171875
+				],
+				"override_height": 8.908203125,
+				"pos": [
+					-34.2671356201172,
+					8.908203125,
+					-149.539993286133
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					39.621768951416,
+					0.0,
+					-10.9203033447266
+				],
+				"out": [
+					-54.6131439208984,
+					0.0,
+					15.052131652832
+				],
+				"override_height": 9.0,
+				"pos": [
+					-212.696762084961,
+					9.0,
+					-107.547409057617
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-20.7374114990234,
+					0.0,
+					-22.3216552734375
+				],
+				"out": [
+					16.2663745880127,
+					0.0,
+					17.5090522766113
+				],
+				"override_height": 6.6435546875,
+				"pos": [
+					-247.281814575195,
+					6.6435546875,
+					-65.7861099243164
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					19.1729125976562,
+					0.0,
+					-30.4232482910156
+				],
+				"out": [
+					-4.26529693603516,
+					0.0,
+					6.76809978485107
+				],
+				"override_height": 2.5107421875,
+				"pos": [
+					-251.035247802734,
+					2.5107421875,
+					-10.3041906356812
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-11.8480768203735,
+					0.0,
+					-25.7662391662598
+				],
+				"out": [
+					14.4616394042969,
+					0.0,
+					31.4500045776367
+				],
+				"override_height": 1.642578125,
+				"pos": [
+					-253.387969970703,
+					1.642578125,
+					44.9684944152832
+				]
+			},
+			{
+				"height_mode": 0,
+				"in": [
+					-27.5291957855225,
+					0.0,
+					-7.88775873184204
+				],
+				"out": [
+					20.3819637298584,
+					0.0,
+					5.83990955352783
+				],
+				"override_height": 1.078125,
+				"pos": [
+					-128.215072631836,
+					1.078125,
+					114.410140991211
+				]
+			}
+		]
+	},
+	"pit_end_progress": 1910.0,
+	"pit_garage_side": 0,
+	"pit_speed_limit_distance_from_end": 317.052032470703,
+	"pit_speed_limit_distance_from_start": 140.877319335938,
+	"pit_start_progress": 1216.0,
+	"reference_image_path": "",
+	"reference_image_position_x": 0.0,
+	"reference_image_position_z": 0.0,
+	"reference_image_scale": 1.0,
+	"road_width": 6.0,
+	"rock_color": "9e9994ff",
+	"rock_shade": 0.5,
+	"scenery": [
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.25
+			},
+			"is_pit_lane": false,
+			"length": 34.8375244140625,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1611.54382324219,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 0.6
+			},
+			"is_pit_lane": false,
+			"length": 23.1375732421875,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1659.15002441406,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 130.699951171875,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1688.34826660156,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.25
+			},
+			"is_pit_lane": false,
+			"length": 37.7791748046875,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1843.74938964844,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 0.6
+			},
+			"is_pit_lane": false,
+			"length": 41.1953125,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 2145.97900390625,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 32.0854473114014,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 2188.09741210938,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.12,
+				"width": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 43.5855560302734,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 33.9533309936523,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.12,
+				"width": 1.5
+			},
+			"is_pit_lane": false,
+			"length": 44.2108764648438,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 87.373291015625,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 56.2432250976563,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 370.821319580078,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 0.6
+			},
+			"is_pit_lane": false,
+			"length": 39.3468322753906,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 418.993499755859,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.12,
+				"width": 1.25
+			},
+			"is_pit_lane": false,
+			"length": 71.7640380859374,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 469.241333007813,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 34.5381469726563,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 542.169982910156,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 0.6
+			},
+			"is_pit_lane": false,
+			"length": 39.1876831054688,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 625.40185546875,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 28.096435546875,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 667.300415039063,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.25
+			},
+			"is_pit_lane": false,
+			"length": 76.3790283203125,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 725.483520507813,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 39.547119140625,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 809.461853027344,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 0.6
+			},
+			"is_pit_lane": false,
+			"length": 31.7183227539063,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 893.942626953125,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 26.2388916015625,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 928.706909179688,
+			"side": 1,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.1,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 20.3831787109375,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 973.246887207031,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"interval": 1.0,
+				"mesh_scale": 1.0,
+				"taper_exponent": 0.5,
+				"taper_length": 1.0,
+				"thickness": 0.06,
+				"width": 0.6
+			},
+			"is_pit_lane": false,
+			"length": 49.1285400390625,
+			"offset": 1.85,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1098.86022949219,
+			"side": 0,
+			"type_id": "curbs"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 244.780151367188,
+			"offset": 4.5,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1345.91357421875,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							12.8458375930786,
+							0.0,
+							-4.46609687805176
+						],
+						"out": [
+							-20.25927734375,
+							0.0,
+							7.04351806640625
+						],
+						"override_height": 9.0,
+						"pos": [
+							-243.757705688477,
+							9.0,
+							-99.9479064941406
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-13.1236839294434,
+							0.0,
+							-13.1219482421875
+						],
+						"out": [
+							26.16064453125,
+							0.0,
+							26.1571846008301
+						],
+						"override_height": 7.2822265625,
+						"pos": [
+							-259.259796142578,
+							7.2822265625,
+							-69.4014739990234
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": true,
+			"length": 255.1318359375,
+			"offset": 4.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 347.442016601563,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": true,
+			"length": 284.399505615234,
+			"offset": 4.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 342.094757080078,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 409.373023986816,
+			"offset": 7.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1875.03662109375,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 367.181632995605,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 67.8424758911133,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": true,
+			"length": 131.692975997925,
+			"offset": 4.5,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 26.4706745147705,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							-15.7554130554199,
+							0.0,
+							-10.9430446624756
+						],
+						"out": [
+							37.4526214599609,
+							0.0,
+							26.0130081176758
+						],
+						"override_height": 8.109375,
+						"pos": [
+							70.1921844482422,
+							8.109375,
+							-142.40168762207
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-2.2511944770813,
+							0.0,
+							2.37668228149414
+						],
+						"out": [
+							43.8911628723145,
+							0.0,
+							-46.337776184082
+						],
+						"override_height": 6.349609375,
+						"pos": [
+							63.6448097229004,
+							6.349609375,
+							-73.564582824707
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 79.4552001953125,
+			"offset": 10.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 602.057006835938,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 97.1376647949219,
+			"offset": 10.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 509.399200439453,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 248.051086425781,
+			"offset": 10.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 680.337463378906,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 329.360534667969,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 923.932067871094,
+			"side": 0,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 592.991760253906,
+			"offset": 9.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 998.096862792969,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 225.829467773438,
+			"offset": 7.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1902.61437988281,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							11.8715629577637,
+							0.0,
+							-4.35943508148193
+						],
+						"out": [
+							-81.4863128662109,
+							0.0,
+							29.9231262207031
+						],
+						"override_height": 9.0,
+						"pos": [
+							-247.763259887695,
+							9.0,
+							-112.890914916992
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-30.1528015136719,
+							0.0,
+							-14.5666007995605
+						],
+						"out": [
+							23.9860305786133,
+							0.0,
+							11.587477684021
+						],
+						"override_height": 4.1298828125,
+						"pos": [
+							-261.492034912109,
+							4.1298828125,
+							-37.6149291992188
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 160.555541992188,
+			"offset": 18.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1690.89086914063,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							-3.11606168746948,
+							0.0,
+							-1.00331807136536
+						],
+						"out": [
+							10.7599182128906,
+							0.0,
+							3.46450805664062
+						],
+						"override_height": 1.0712890625,
+						"pos": [
+							-206.371170043945,
+							1.0712890625,
+							110.353408813477
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-20.8010559082031,
+							0.0,
+							-7.06893157958984
+						],
+						"out": [
+							13.6829557418823,
+							0.0,
+							4.64995050430298
+						],
+						"override_height": 0.9892578125,
+						"pos": [
+							-145.033416748047,
+							0.9892578125,
+							116.818405151367
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							-21.1960067749023,
+							0.0,
+							-6.1444296836853
+						],
+						"out": [
+							102.558952331543,
+							0.0,
+							29.7304229736328
+						],
+						"override_height": 0.1171875,
+						"pos": [
+							61.5338821411133,
+							0.1171875,
+							175.921752929688
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-14.8228960037231,
+							0.0,
+							83.7590026855469
+						],
+						"out": [
+							3.0888671875,
+							0.0,
+							-17.4541091918945
+						],
+						"override_height": 1.64453125,
+						"pos": [
+							159.109558105469,
+							1.64453125,
+							108.876571655273
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": false,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							-4.05245971679688,
+							0.0,
+							26.7021255493164
+						],
+						"out": [
+							6.4151349067688,
+							0.0,
+							-42.2700653076172
+						],
+						"override_height": 1.564453125,
+						"pos": [
+							158.533172607422,
+							1.564453125,
+							111.901435852051
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							192.639297485352,
+							0.0,
+							142.867202758789
+						],
+						"out": [
+							-2.62940979003906,
+							0.0,
+							-1.95005083084106
+						],
+						"override_height": 6.1484375,
+						"pos": [
+							-23.449634552002,
+							6.1484375,
+							-70.7612152099609
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 172.042419433594,
+			"offset": 20.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 452.377624511719,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							37.9109306335449,
+							0.0,
+							-33.008716583252
+						],
+						"out": [
+							-71.5781936645508,
+							0.0,
+							62.3225135803223
+						],
+						"override_height": 6.154296875,
+						"pos": [
+							132.724273681641,
+							6.154296875,
+							-75.3022155761719
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-32.1244354248047,
+							0.0,
+							-22.9000835418701
+						],
+						"out": [
+							6.51426219940186,
+							0.0,
+							4.64372825622559
+						],
+						"override_height": 3.1904296875,
+						"pos": [
+							165.578170776367,
+							3.1904296875,
+							51.0370101928711
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-6.88074254989624,
+							0.0,
+							-4.08109045028687
+						],
+						"out": [
+							25.5553894042969,
+							0.0,
+							15.157356262207
+						],
+						"override_height": 2.005859375,
+						"pos": [
+							243.650970458984,
+							2.005859375,
+							99.8905487060547
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-0.223536238074303,
+							0.0,
+							7.99686288833618
+						],
+						"out": [
+							0.50653076171875,
+							0.0,
+							-18.1208076477051
+						],
+						"override_height": 2.3095703125,
+						"pos": [
+							283.99609375,
+							2.3095703125,
+							82.6936645507812
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-1.9310667514801,
+							0.0,
+							-11.433985710144
+						],
+						"out": [
+							5.00857543945312,
+							0.0,
+							29.6561374664307
+						],
+						"override_height": 4.2177734375,
+						"pos": [
+							267.856872558594,
+							4.2177734375,
+							-16.0659465789795
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							10.6270990371704,
+							0.0,
+							8.62623596191406
+						],
+						"out": [
+							-38.9094848632812,
+							0.0,
+							-31.5836334228516
+						],
+						"override_height": 6.1044921875,
+						"pos": [
+							-8.70497131347656,
+							6.1044921875,
+							-68.3023147583008
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-62.5506935119629,
+							0.0,
+							7.08393859863281
+						],
+						"out": [
+							3.25281119346619,
+							0.0,
+							-0.368384629487991
+						],
+						"override_height": 7.837890625,
+						"pos": [
+							46.5281753540039,
+							7.837890625,
+							-125.010589599609
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_fence": true,
+				"flags": false,
+				"mesh_scale": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 1,
+			"type_id": "barrier_and_fence"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 100.0
+			},
+			"is_pit_lane": false,
+			"length": 149.6767578125,
+			"offset": 4.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1537.07446289063,
+			"side": 1,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 100.0
+			},
+			"is_pit_lane": false,
+			"length": 16.50341796875,
+			"offset": 17.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1812.30480957031,
+			"side": 1,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 2.0,
+				"taper": 100.0
+			},
+			"is_pit_lane": false,
+			"length": 24.3148458003998,
+			"offset": 12.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 2.48581719398499,
+			"side": 1,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 50.0
+			},
+			"is_pit_lane": false,
+			"length": 95.2633972167969,
+			"offset": 4.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 317.652770996094,
+			"side": 0,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 50.0
+			},
+			"is_pit_lane": false,
+			"length": 95.2633972167969,
+			"offset": 4.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 589.461608886719,
+			"side": 0,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 0.0
+			},
+			"is_pit_lane": false,
+			"length": 85.3256225585938,
+			"offset": 5.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 809.223388671875,
+			"side": 1,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 0.0
+			},
+			"is_pit_lane": false,
+			"length": 33.3914794921875,
+			"offset": 5.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 925.715148925781,
+			"side": 1,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 100.0
+			},
+			"is_pit_lane": false,
+			"length": 262.200073242188,
+			"offset": 5.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1314.46520996094,
+			"side": 1,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 3.0,
+				"taper": 20.0
+			},
+			"is_pit_lane": false,
+			"length": 54.2518310546875,
+			"offset": 5.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1282.26403808594,
+			"side": 0,
+			"type_id": "runoff"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 268.976440429688,
+			"offset": 10.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1329.86853027344,
+			"side": 1,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							6.01375150680542,
+							0.0,
+							6.78682041168213
+						],
+						"out": [
+							-34.7046203613281,
+							0.0,
+							-39.1659088134766
+						],
+						"override_height": 6.24609375,
+						"pos": [
+							-289.425048828125,
+							6.24609375,
+							-52.2555541992188
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-22.5299530029297,
+							0.0,
+							9.10601043701172
+						],
+						"out": [
+							26.8407211303711,
+							0.0,
+							-10.8483085632324
+						],
+						"override_height": 9.0,
+						"pos": [
+							-237.731109619141,
+							9.0,
+							-117.097610473633
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 0.0,
+			"side": 0,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 157.386474609375,
+			"offset": 20.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1747.77282714844,
+			"side": 1,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 244.358764648438,
+			"offset": 20.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1902.81408691406,
+			"side": 1,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							-3.55817484855652,
+							0.0,
+							-1.01941776275635
+						],
+						"out": [
+							70.2212753295898,
+							0.0,
+							20.118408203125
+						],
+						"override_height": 0.2119140625,
+						"pos": [
+							73.8028793334961,
+							0.2119140625,
+							193.766189575195
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-8.71437072753906,
+							0.0,
+							127.186996459961
+						],
+						"out": [
+							0.253007709980011,
+							0.0,
+							-3.69266963005066
+						],
+						"override_height": 1.994140625,
+						"pos": [
+							178.227340698242,
+							1.994140625,
+							96.7676544189453
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 2145.23681640625,
+			"side": 1,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 79.2297668457031,
+			"offset": 20.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 246.844635009766,
+			"side": 0,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							4.89177322387695,
+							0.0,
+							30.0644702911377
+						],
+						"out": [
+							-2.93417358398438,
+							0.0,
+							-18.0332107543945
+						],
+						"override_height": 2.2861328125,
+						"pos": [
+							288.50439453125,
+							2.2861328125,
+							82.4318237304688
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							5.13483333587646,
+							0.0,
+							31.5217037200928
+						],
+						"out": [
+							-5.45455932617188,
+							0.0,
+							-33.4844360351562
+						],
+						"override_height": 3.5693359375,
+						"pos": [
+							278.767883300781,
+							3.5693359375,
+							15.6389617919922
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 79.2297668457031,
+			"offset": 20.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 924.818420410156,
+			"side": 1,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 0.5,
+				"mesh_scale": 12.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 208.330688476563,
+			"offset": 10.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1130.56323242188,
+			"side": 1,
+			"type_id": "grandstand"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"layer_count": 1.0,
+				"mesh_scale": 5.0,
+				"spacing": 5.0,
+				"type": 2.0
+			},
+			"is_pit_lane": true,
+			"length": 200.278625488281,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 403.734985351563,
+			"side": 0,
+			"type_id": "buildings"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 3.0,
+				"mesh_scale": 1.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 372.129182815552,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1858.71875,
+			"side": 0,
+			"type_id": "trees"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 2.0,
+				"mesh_scale": 1.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 206.117021560669,
+			"offset": 20.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 12.2498760223389,
+			"side": 0,
+			"type_id": "trees"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"layer_count": 1.0,
+				"mesh_scale": 5.0,
+				"spacing": 5.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 247.665749549866,
+			"offset": 50.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 7.32858943939209,
+			"side": 0,
+			"type_id": "buildings"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"layer_count": 1.0,
+				"mesh_scale": 5.0,
+				"spacing": 5.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 211.188836097717,
+			"offset": 50.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1877.02404785156,
+			"side": 0,
+			"type_id": "buildings"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 3.0,
+				"mesh_scale": 1.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 94.5035400390625,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1021.75500488281,
+			"side": 1,
+			"type_id": "trees"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							19.9485492706299,
+							0.0,
+							68.0168075561523
+						],
+						"out": [
+							-15.2213745117188,
+							0.0,
+							-51.8989715576172
+						],
+						"override_height": 7.5361328125,
+						"pos": [
+							229.109191894531,
+							7.5361328125,
+							-133.303070068359
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							322.197784423828,
+							0.0,
+							-103.428115844727
+						],
+						"out": [
+							-39.0458145141602,
+							0.0,
+							12.5340251922607
+						],
+						"override_height": 8.880859375,
+						"pos": [
+							-250.038040161133,
+							8.880859375,
+							-135.008987426758
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 3.0,
+				"mesh_scale": 1.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 114.54296875,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 1002.5283203125,
+			"side": 1,
+			"type_id": "trees"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"layer_count": 1.0,
+				"mesh_scale": 5.0,
+				"spacing": 5.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 135.783996582031,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 932.940368652344,
+			"side": 0,
+			"type_id": "buildings"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 1.0,
+				"mesh_scale": 1.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 54.4658203125,
+			"offset": 10.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1061.84155273438,
+			"side": 0,
+			"type_id": "trees"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"layer_count": 1.0,
+				"mesh_scale": 5.0,
+				"spacing": 5.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 56.6494750976563,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 976.44677734375,
+			"side": 1,
+			"type_id": "buildings"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							-26.4353733062744,
+							0.0,
+							-16.4189605712891
+						],
+						"out": [
+							65.0735778808594,
+							0.0,
+							40.4170761108398
+						],
+						"override_height": 2.6025390625,
+						"pos": [
+							174.007293701172,
+							2.6025390625,
+							73.5906372070312
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-14.7259826660156,
+							0.0,
+							51.3863830566406
+						],
+						"out": [
+							8.57289981842041,
+							0.0,
+							-29.9151725769043
+						],
+						"override_height": 2.189453125,
+						"pos": [
+							294.253723144531,
+							2.189453125,
+							85.7618713378906
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"density": 1.0,
+				"layer_count": 3.0,
+				"mesh_scale": 1.0,
+				"type": 1.0
+			},
+			"is_pit_lane": false,
+			"length": 94.5035400390625,
+			"offset": 15.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 874.607727050781,
+			"side": 1,
+			"type_id": "trees"
+		},
+		{
+			"custom_curve": null,
+			"extra_params": {
+				"layer_count": 1.0,
+				"mesh_scale": 5.0,
+				"spacing": 5.0,
+				"type": 2.0
+			},
+			"is_pit_lane": false,
+			"length": 48.0643310546875,
+			"offset": 50.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 0,
+			"progress": 1703.31909179688,
+			"side": 1,
+			"type_id": "buildings"
+		},
+		{
+			"custom_curve": {
+				"points": [
+					{
+						"height_mode": 0,
+						"in": [
+							-6.10076093673706,
+							0.0,
+							5.95503330230713
+						],
+						"out": [
+							13.0150814056396,
+							0.0,
+							-12.7041931152344
+						],
+						"override_height": 7.556640625,
+						"pos": [
+							-31.7265148162842,
+							7.556640625,
+							-123.837280273438
+						]
+					},
+					{
+						"height_mode": 0,
+						"in": [
+							-29.0439472198486,
+							0.0,
+							1.90608215332031
+						],
+						"out": [
+							3.7755491733551,
+							0.0,
+							-0.24777989089489
+						],
+						"override_height": 8.0791015625,
+						"pos": [
+							49.5951919555664,
+							8.0791015625,
+							-142.703704833984
+						]
+					}
+				]
+			},
+			"extra_params": {
+				"disable_barrier": true,
+				"flags": false,
+				"interval": 3.0,
+				"mesh_scale": 1.0,
+				"surface_material": 2.0,
+				"taper": 10.0
+			},
+			"is_pit_lane": false,
+			"length": 10.0,
+			"offset": 6.0,
+			"offset_curve": {
+				"max_value": 1.0,
+				"min_value": 0.0,
+				"points": [
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							0.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					},
+					{
+						"left_mode": 1,
+						"left_tangent": 0.0,
+						"pos": [
+							1.0,
+							1.0
+						],
+						"right_mode": 1,
+						"right_tangent": 0.0
+					}
+				]
+			},
+			"placement_mode": 1,
+			"progress": 327.947540283203,
+			"side": 0,
+			"type_id": "runoff"
+		}
+	],
+	"sector_1_progress": 2082.56201171875,
+	"sector_2_progress": 851.768981933594,
+	"start_line_progress": 1462.02294921875,
+	"sun_rotation": 180.0,
+	"time_of_day": 16.0,
+	"track_name": "Brazil by Mr. Dongle",
+	"tree_color": "274d32ff",
+	"tree_shade": 0.5,
+	"water_color": "052952ff",
+	"water_shade": 0.5,
+	"workshop_url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3822234777"
+}
